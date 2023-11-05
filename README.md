@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Output
+![Screenshot 2023-11-05 142344](https://github.com/JATIN1972/Tasky-App-React-Project-/assets/123526969/58a4d4af-6608-437f-9d88-31957dc9aab8)
+![Screenshot 2023-11-05 142408](https://github.com/JATIN1972/Tasky-App-React-Project-/assets/123526969/e01dcdb7-b208-4352-a8ff-ca16c4103847)
 
 ## Available Scripts
 
